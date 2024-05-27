@@ -1,4 +1,4 @@
-# mocking-and-patching
+# Mocking and patching
 
 Mocks are essential in testing because they allow you to simulate the behaviour of real objects or dependencies. 
 They help isolate the component under test, ensuring that its behavior isn't affected by external factors. 
